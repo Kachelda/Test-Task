@@ -1,0 +1,6 @@
+c:\users\cutlers\source\repos\TestTask\TestCommon\bin\Debug\TestCommon.dll
+c:\users\cutlers\source\repos\TestTask\TestCommon\bin\Debug\TestCommon.pdb
+c:\users\cutlers\source\repos\TestTask\TestCommon\obj\Debug\TestCommon.csprojResolveAssemblyReference.cache
+c:\users\cutlers\source\repos\TestTask\TestCommon\obj\Debug\TestCommon.csproj.CoreCompileInputs.cache
+c:\users\cutlers\source\repos\TestTask\TestCommon\obj\Debug\TestCommon.dll
+c:\users\cutlers\source\repos\TestTask\TestCommon\obj\Debug\TestCommon.pdb

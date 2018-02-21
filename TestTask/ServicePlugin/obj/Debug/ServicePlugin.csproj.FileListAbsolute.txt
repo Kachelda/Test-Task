@@ -1,0 +1,8 @@
+c:\users\cutlers\source\repos\TestTask\ServicePlugin\bin\Debug\ServicePlugin.dll
+c:\users\cutlers\source\repos\TestTask\ServicePlugin\bin\Debug\ServicePlugin.pdb
+c:\users\cutlers\source\repos\TestTask\ServicePlugin\obj\Debug\ServicePlugin.csproj.CoreCompileInputs.cache
+c:\users\cutlers\source\repos\TestTask\ServicePlugin\obj\Debug\ServicePlugin.dll
+c:\users\cutlers\source\repos\TestTask\ServicePlugin\obj\Debug\ServicePlugin.pdb
+C:\Users\Cutlers\source\repos\TestTask\ServicePlugin\bin\Debug\TestCommon.dll
+C:\Users\Cutlers\source\repos\TestTask\ServicePlugin\bin\Debug\TestCommon.pdb
+C:\Users\Cutlers\source\repos\TestTask\ServicePlugin\obj\Debug\ServicePlugin.csprojResolveAssemblyReference.cache
